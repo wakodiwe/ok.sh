@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <!-- check -->
+  <path d="M28 64 L52 88 L100 36"
+        fill="none"
+        stroke="#22c55e"
+        stroke-width="10"
+        stroke-linecap="round"
+        stroke-linejoin="round"/>
+
+  <!-- text -->
+  <text x="28" y="110"
+        font-family="Inter, system-ui, sans-serif"
+        font-size="28"
+        fill="#e5e7eb">
+    ok.sh
+  </text>
+</svg>
