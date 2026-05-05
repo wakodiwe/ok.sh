@@ -2,7 +2,7 @@
     <img src="https://raw.githubusercontent.com/wakodiwe/ok.sh/refs/heads/main/docs/oksh.svg" style="height: 15rem; width: 15rem;" />
 </p>
 <h3 align="center">Minimal POSIX shell test harness</h3>
-<h4 align="center">Single file, no dependencies.</h4>
+<h4 align="center">Single file - No dependencies</h4>
 
 ## Install
 
